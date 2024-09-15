@@ -1,7 +1,5 @@
 # SmartBin
-IoT Based Dustbin Dashboard
 
-Live URL: https://smartbin.pythonanywhere.com/
 ### Login Credentials
 ```
 Username: admin
